@@ -1,2 +1,2 @@
-TJG_BountyHunter
+TJG_PlayerBounties
 ================
